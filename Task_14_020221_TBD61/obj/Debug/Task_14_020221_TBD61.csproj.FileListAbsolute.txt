@@ -1,0 +1,10 @@
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.csprojAssemblyReference.cache
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.Form1.resources
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.Properties.Resources.resources
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\bin\Debug\Task_14_020221_TBD61.exe.config
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\bin\Debug\Task_14_020221_TBD61.exe
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\bin\Debug\Task_14_020221_TBD61.pdb
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.exe
+C:\Users\Gleb\source\repos\Task_14_020221_TBD61\Task_14_020221_TBD61\obj\Debug\Task_14_020221_TBD61.pdb
